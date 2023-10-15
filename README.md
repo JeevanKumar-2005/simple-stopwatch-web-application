@@ -11,3 +11,4 @@ Control Buttons:
 ) with the class "laps" (
 ). When you click the "Lap" button while the stopwatch is running, lap times will be added to this list.
 You can use this stopwatch by clicking the control buttons. The stopwatch will start counting when you click "Start" and stop when you click "Stop." You can record lap times by clicking "Lap," and the lap times will be displayed in the list below the display.
+click to visit website:https://jeevankumar-2005.github.io/simple-stopwatch-web-application/
